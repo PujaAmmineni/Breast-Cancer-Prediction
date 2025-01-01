@@ -1,5 +1,5 @@
 # Breast-Cancer-Prediction
-# Breast Cancer Prediction
+
 
 This repository focuses on building predictive models for breast cancer diagnosis using medical imaging data. The project involves preprocessing, feature engineering, and the development of machine learning models to classify tumors as either **Benign** or **Malignant**.
 
